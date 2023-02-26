@@ -11,7 +11,7 @@ If the earlier selected file is deleted, the hard link to the file will still co
 Soft Link :
 
 A soft link (also known as a Symbolic link) acts as a pointer or a reference to the file name. 
-It does not access the data available in the original file. If the earlier file is deleted, 
+It does not access the data available in the original file. If the earlier file is deleted, jbjhghggfg
 the soft link will be pointing to a file that does not exist anymore.
 # Command to create a Soft link is: $ ln  -s [original filename] [link name] 
 
